@@ -1,0 +1,34 @@
+.Signup {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.Signup h1 {
+  margin-bottom: 20px;
+}
+
+.Signup input {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.Signup button {
+  width: 100%;
+  padding: 10px;
+  background-color: #1710e0;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+.Signup button:hover {
+  background-color: #1952d7;
+}

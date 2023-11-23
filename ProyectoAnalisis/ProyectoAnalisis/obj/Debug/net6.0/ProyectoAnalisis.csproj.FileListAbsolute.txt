@@ -1,0 +1,135 @@
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\appsettings.json
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ProyectoAnalisis.exe
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ProyectoAnalisis.deps.json
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ProyectoAnalisis.runtimeconfig.json
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ProyectoAnalisis.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ProyectoAnalisis.pdb
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\scopedcss\bundle\ProyectoAnalisis.styles.css
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.csproj.CopyComplete
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\refint\ProyectoAnalisis.dll
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.pdb
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.genruntimeconfig.cache
+C:\Users\Anthony\Desktop\Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ref\ProyectoAnalisis.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\appsettings.Development.json
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\appsettings.json
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ProyectoAnalisis.exe
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ProyectoAnalisis.deps.json
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ProyectoAnalisis.runtimeconfig.json
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ProyectoAnalisis.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ProyectoAnalisis.pdb
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\MySql.Data.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Text.Json.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\ZstdSharp.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.csproj.AssemblyReference.cache
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.AssemblyInfoInputs.cache
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.AssemblyInfo.cs
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.csproj.CoreCompileInputs.cache
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cs
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoAnalisis.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoAnalisis.props
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoAnalisis.props
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoAnalisis.props
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\staticwebassets.build.json
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\staticwebassets.development.json
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\scopedcss\bundle\ProyectoAnalisis.styles.css
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.csproj.CopyComplete
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\refint\ProyectoAnalisis.dll
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.pdb
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ProyectoAnalisis.genruntimeconfig.cache
+D:\Joan\Universidad\analisis 2023\proyecto\Proyecto-Supercell-Analisis\ProyectoAnalisis\ProyectoAnalisis\obj\Debug\net6.0\ref\ProyectoAnalisis.dll
