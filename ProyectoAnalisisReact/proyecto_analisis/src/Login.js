@@ -49,7 +49,7 @@ function Login(props) {
 
     return (
         <div className='Login'>
-            <h1 >Iniciar Sesión</h1>
+            <h1 >Iniciar Sesió</h1>
             <input
                 type="text"
                 placeholder="Correo electrónico"
